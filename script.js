@@ -10,7 +10,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "O vôlei de quadra é jogado em um ambiente fechado com seis jogadores em cada equipe e um sistema de três toques por equipe, enquanto o vôlei de praia é jogado ao ar livre com duas equipes de dois jogadores e um sistema de dois toques por equipe.",
-                afirmacao: "No vôlei de quadra, o jogo ocorre em ambientes fechados com seis jogadores em cada time e permite três toques por equipe antes de passar a bola para o time adversário. No vôlei de praia, o jogo ocorre ao ar livre com duas equipes de dois jogadores e apenas três toques são permitidos por equipe.)",
+                afirmacao: "No vôlei de quadra, o jogo ocorre em ambientes fechados com seis jogadores em cada time e permite três toques por equipe antes de passar a bola para o time adversário. No vôlei de praia, o jogo ocorre ao ar livre com duas equipes de dois jogadores e apenas três toques são permitidos por equipe.",
             },
             {
                 texto: "O vôlei de praia é jogado em uma quadra coberta com seis jogadores em cada equipe,enquanto o vôlei de quadra é jogado ao ar livre com apenas dois jogadores por equipe.",
