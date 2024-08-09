@@ -22,7 +22,7 @@ const perguntas = [
         enunciado: "Como o vôlei contribui para a promoção da cultura esportiva em diferentes regiões?",
         alternativas: [
             {
-                texto: "sO vôlei, como esporte coletivo, promove a integração social e cultural, oferecendo oportunidades para pessoas de diferentes origens se reunirem em torneios locais e internacionais.",
+                texto: "Só vôlei, como esporte coletivo, promove a integração social e cultural, oferecendo oportunidades para pessoas de diferentes origens se reunirem em torneios locais e internacionais.",
                 afirmacao: "O vôlei promove a integração social e cultural ao reunir pessoas de diferentes origens em eventos esportivos, incentivando o intercâmbio cultural e o espírito de equipe."
             },
             {
